@@ -1,0 +1,15 @@
+{
+  "name": "copy-repo-files",
+  "version": "1.0.0",
+  "description": "Just to copy files from specified repo to destination folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
