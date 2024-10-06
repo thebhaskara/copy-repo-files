@@ -1,6 +1,6 @@
 {
   "name": "copy-repo-files",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Just to copy files from specified repo to destination folder",
   "main": "index.js",
   "bin": {
